@@ -1,5 +1,5 @@
 # cybersecurity-labs
-This repository contains my cybersecurity projects, labs, Python security tools, and CTF writeups demonstrating practical security skills.
+This repository showcases my work as a SOC Analyst and cybersecurity enthusiast, featuring cybersecurity projects, hands-on labs, Python-based security tools, and CTF writeups that demonstrate practical skills in threat intelligence, automation, incident response, and defensive security operations.
 
 ## Skills
 
